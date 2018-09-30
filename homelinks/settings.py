@@ -37,6 +37,9 @@ INSTALLED_APPS = [
     'websites',
     'channels',
     'groups',
+    'advertisements',
+    'comments',
+    'contact_us',
 ]
 
 MIDDLEWARE = [
